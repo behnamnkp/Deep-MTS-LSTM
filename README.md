@@ -1,7 +1,7 @@
 # Covid-19-Prediction
 
 
-# MTS-LSTM: Spatio-temporal Prediction of the COVID-19Pandemic in US Counties: Modeling with A DeepLSTM Neural Network
+# MTS-LSTM: Spatio-temporal Prediction of the COVID-19 Pandemic in US Counties: Modeling with A DeepLSTM Neural Network
 MTS-LSTM is a deep learning model based on long short term memory to predict dynamics of new cases and deaths for contagious diseases (e.g., Covid-19) with the following features: 
 
 - The model is a multi-variate LSTM-based neural network with mobility. 

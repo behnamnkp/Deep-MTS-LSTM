@@ -1,0 +1,53 @@
+Variable,Description,Measure
+GISJOIN,County Key,
+index,County numeric index,
+Date,Last day number of a epidemic week ,
+confirmed_cases,Confirmed cases of Covid-19,#
+deaths,deaths cases of Covid-19,#
+foot_traffic,Average weekly foot traffic ,#
+TPOP,Total population ,#
+POPDEN,Population density in the county,population/km2
+Metro,Whether county is located in metropolitan areas,"1 = Yes, 0 = Otherwise"
+Micro,Whether county is located in micropolitan areas,"1 = Yes, 0 = Otherwise"
+POP1,Percentage of population age less than 25 years,%
+POP2,Percentage of population age 25 to 49 years,%
+POP3,Percentage of population age 50 to 64 years,%
+POP4,Percentage of population age 65 years and above,%
+Race1,Percentage of the white population,%
+Race2,Percentage of the black population,%
+Race3,Percentage of the asian population,%
+Race4,Percentage of the native population,%
+Race5,Percentage of the other population,%
+FHH,Percentage of family households,%
+HHS1,Percentage of 2 persons family households,%
+HHS2,Percentage of 3 persons family households,%
+HHS3,Percentage of 4 persons family households,%
+SE1,Percentage of population 3 years and over enrolled in school,%
+EDU1,Percentage of population 25 years and over who did not complete schooling,%
+EDU2,Percentage of population 25 years and over who attained up to 12th grade,%
+EDU3,Percentage of population 25 years and over who attained highschool and college education,%
+EDU4,Percentage of population 25 years and over who attained associate degree,%
+EDU5,Percentage of population 25 years and over who attained bachelor and above degree,%
+PL,Percentage of family below poverty level ,%
+HHI1,Percentage of households who have less than $25000 income in the past 12 moths,%
+HHI2,Percentage of households who have $25000 to $49999 income in the past 12 moths,%
+HHI3,Percentage of households who have $50000 to $74999 income in the past 12 moths,%
+HHI4,Percentage of households who have $75000 to $99999 income in the past 12 moths,%
+HHI5,Percentage of households who have $100000 and more income in the past 12 moths,%
+MHHI,Median household income in the past 12 months,$
+MNR,Median number of rooms of the housing units,#
+MGR,Median gross rent of the occupied housing units,$
+MHV,Median value of the occupied housing units,$
+HI,Percentage of population who have an insurance coverage,%
+MHI,Percentage of population who have medicaid based insurance only,%
+QTPOP%,Quarter population / total county population,%
+OCCU1,"Percentage of people employed in management, business, science, and arts occupations",%
+OCCU2,Percentage of people employed in Service occupations,%
+OCCU3,Percentage of people employed in Sales and office occupations,%
+OCCU4,"Percentage of people employed in Natural resources, construction, and maintenance occupations",%
+OCCU5,"Percentage of people employed in Production, transportation, and material moving occupations",%
+DT,Percentage of people died from diabetes,%
+HD,Number of death from heart disease ,"Death/100,000"
+HT,Number of death from hypertension,"Death/100,000"
+WI,Percentage of people without Health Insurance,%
+OB,Percentage of people died from Obesity,%

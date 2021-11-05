@@ -141,7 +141,7 @@ def create_feature_vector(counties_sample, data_train_valid):
 
 # The length of timeseries for a county
 TIMESERIES_LENGHT = 33 
-# Use this variable to control the proportion of counties that are used in training process
+# Use this variable to control the fraction of counties that are used in training process. We used a small fraction for this experiment.
 PROP_SAMPLE_COUNTIES = 0.016 
 # Number of weeks from which new predictionsa re made
 WINDOW_SIZE = 3  

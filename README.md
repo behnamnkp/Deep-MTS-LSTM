@@ -13,6 +13,6 @@ MTS-LSTM is a deep learning model based on long short term memory to predict dyn
 Some prediction results for confirmed cases, deaths, and foot traffic:
 - Model 1: MTS-LSTM with confirmed cases and deaths
 - Model 2: MTS-LSTM with confirmed cases, deaths, and foot traffic
-- Ensemble: Predictions from ensemble model implemented by COVID-19 Forecast Hub in collaboration with CDC (the benchmark)
+- Ensemble: Predictions from ensemble model implemented by COVID-19 Forecast Hub in collaboration with CDC (benchmark)
 
 ![Large-Mid-small counties](https://user-images.githubusercontent.com/9162866/125010557-c2706880-e034-11eb-826f-5582a0c92535.jpg)
